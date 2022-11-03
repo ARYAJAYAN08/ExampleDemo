@@ -1,4 +1,6 @@
 1. Study
-2. Code
-3. Test
-4. Validate
+2. Design
+3. Code
+4. Test
+5. Validate
+6. Deploy

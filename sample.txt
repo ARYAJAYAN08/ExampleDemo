@@ -1,0 +1,4 @@
+1. Study
+2. Code
+3. Test
+4. Validate
